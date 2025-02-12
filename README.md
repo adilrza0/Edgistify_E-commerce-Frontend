@@ -10,28 +10,6 @@ Fullstack
 Frontend: https://reliable-pixie-7106e7.netlify.app/
 Backend: https://edgistify-e-commerce-backend.onrender.com/api
 
-## Directory Structure
-Edgistify_E-commerce-Frontend/
-├── public/
-│   ├── index.html
-│   ├── favicon.ico
-│   └── ...
-├── src/
-│   ├── assets/
-│   │   ├── images/
-│   │   └── styles/
-│   ├── components/
-│   │   
-│   ├── pages/
-│   │   
-│   
-│   ├── App.jsx
-│   ├── index.jsx
-│   └── ...
-├── .gitignore
-├── package.json
-├── README.md
-└── ...
 
 
 
